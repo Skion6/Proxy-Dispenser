@@ -37,3 +37,6 @@ config.json
 commands.json
 database.db*
 dist/
+.env
+.env.*
+!.env.example
